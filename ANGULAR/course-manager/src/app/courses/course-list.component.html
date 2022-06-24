@@ -32,6 +32,10 @@
             <td>
                 <app-star [rating]="course.rating"></app-star>
             </td>
+            <td>
+                <a [routerLink]="['/courses/info', course.id]" class="btn btn-primary">Edit</a>
+                <!-- Essa rota possui um caminho (url) e um parâmetro (id) -->
+            </td>
         </tr>
     </body>
 </table>
