@@ -9,3 +9,4 @@ export class Course {
   releaseDate: string;
   description: string;
 }
+
