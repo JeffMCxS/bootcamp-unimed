@@ -33,8 +33,9 @@
                 <app-star [rating]="course.rating"></app-star>
             </td>
             <td>
-                <a [routerLink]="['/courses/info', course.id]" class="btn btn-primary">Edit</a>
+                <a [routerLink]="['/courses/info', course.id]" class="btn btn-primary m-2">Edit</a>
                 <!-- Essa rota possui um caminho (url) e um parâmetro (id) -->
+                <button (click)="deleteById(course.id)" class="btn btn-danger">Delete</button>
             </td>
         </tr>
     </tbody>
