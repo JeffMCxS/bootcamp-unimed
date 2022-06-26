@@ -2,7 +2,10 @@
 
 <hr/>
 
-<form #courseForm="ngForm"> <!-- # variável de template -->
+<form #courseForm="ngForm" *ngIf="course"> <!-- # variável de template -->
+<!-- *ngIf="course" só exibe o formulário caso "course" tenha alguma informção,
+ou seja, como a request é assincrona, pode ser que formulário carregue antes
+de possuir os dados da request para carregar -->
 
     <div class="form-group row">
         <label class="col-sm-2 col-form-label">Name:</label>

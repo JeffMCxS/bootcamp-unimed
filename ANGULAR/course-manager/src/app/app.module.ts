@@ -3,6 +3,8 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms'; //Add
 import { RouterModule } from '@angular/router'; //Add modulod e rotas
 
+import { HttpClientModule } from '@angular/common/http'; //
+
 import { AppComponent } from './app.component';
 import { CourseListComponent } from './courses/course-list.component'; //Import do componente
 import { StarComponent } from './star/star.component'; //Add Import
@@ -24,6 +26,7 @@ import { CourseInfoComponent } from './courses/course-info.component'; //Add Imp
   imports: [
     BrowserModule,
     FormsModule, //Add
+    HttpClientModule, //
     RouterModule.forRoot([ //carrega as rotas assim que inicializar
         {
             path: 'courses', component: CourseListComponent

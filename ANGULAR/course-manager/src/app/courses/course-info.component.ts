@@ -17,7 +17,13 @@ export class CourseInfoComponent implements OnInit{
 
     ngOnInit(): void{
         //Tirando uma "foto" da rota ativa nesse momento
-        this.course = this.courseService.retrieveById(Number(this.activatedRoute.snapshot.paramMap.get('id')));
+        this.courseService.retrieveById(Number(this.activatedRoute.snapshot.paramMap.get('id'))).subscribe({
+        //Adicionado o subscribe
+            next: course => this.course = course,
+            //iguala o curso ao retorno da requisição http
+            error: err => console.log('Error', err)
+
+        })
         //O 'id' se refere ao 'id' informado na pathrota do app.module
 
         //this.courseId = +this.activatedRoute.snapshot.paramMap.get('id');
@@ -29,7 +35,10 @@ export class CourseInfoComponent implements OnInit{
     }
 
     save(): void {
-        this.courseService.save(this.course);
+        this.courseService.save(this.course).subscribe({
+            next: course => console.log('Saved with sucess', course),
+            error: err => console.log('Error', err)
+        })
     }
 
 }

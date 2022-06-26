@@ -1,4 +1,6 @@
+import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
+import { Observable } from 'rxjs';
 import { Course } from './course';
 
 @Injectable({
@@ -7,20 +9,31 @@ import { Course } from './course';
 })
 export class CourseService {
 
-    retrieveAll(): Course[] {
-        return COURSES;
+    private coursesUrl: string = 'http://localhost:3100/api/courses' //Base path = api/course
+
+    constructor(private httpClient: HttpClient) {}
+
+    retrieveAll(): Observable<Course[]> {
+        return this.httpClient.get<Course[]>(this.coursesUrl);
+        //httpClient retorna um Observable, então o retorno do metodo foi alterado
+        /* Observable por sua vez é uma resposta envelopada.
+        O Observable trabalha com contratos de 2 vias, um é o publish que é que cria
+        o contrato, e o outro é que vai estar ouvindo este contrato, quem irá da o subcribe */
+        //Observable é assincrono
     }
 
-    //Filtra e retorna o curso com base no Id informado
-    retrieveById(id: number): Course {
-        return COURSES.find((courseIterator: Course) => courseIterator.id === id)!;
+    //Filtra e retorna o curso evelopado pelo Observable, com base no Id informado
+    retrieveById(id: number): Observable<Course> {
+    //Como ele é um contrato, é preciso da subscribe para que ele possa ser executado
+    //Subscribe no course-info.component.js
+        return this.httpClient.get<Course>(`${this.coursesUrl}/${id}`)
     }
 
-    save(course: Course): void {
+    save(course: Course): Observable<Course> {
         if(course.id) {
-            //Encontra o indice do curso no array, com base no id
-            const index = COURSES.findIndex((courseIterator: Course) => courseIterator.id === course.id);
-            COURSES[index] = course; //Salva a alteração, sobreescreve.
+            return this.httpClient.put<Course>(`${this.coursesUrl}/${course.id}`, course);
+        } else {
+            return this.httpClient.put<Course>(`${this.coursesUrl}`, course);
         }
     }
 
