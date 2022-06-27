@@ -6,7 +6,7 @@ import { HttpClientModule } from '@angular/common/http'; //
 
 import { AppComponent } from './app.component';
 //import { NavBarComponent } from './core/component/nav-bar/nav-bar.component';
-import { Error404Component } from './error-404/error-404.component'; //Add Import
+//import { Error404Component } from './core/component/error-404/error-404.component'; //Add Import
 import { CourseModule } from './courses/course.module';
 import { CoreModule } from './core/core.module';
 
@@ -14,7 +14,7 @@ import { CoreModule } from './core/core.module';
   declarations: [
     AppComponent,
     //NavBarComponent, //Realocado para core após utilizar segregaçao em modulos
-    Error404Component, //Add
+    //Error404Component, //Realocado para core após utilizar segregaçao em modulos
   ],
   imports: [
     BrowserModule,
@@ -28,10 +28,12 @@ import { CoreModule } from './core/core.module';
             path: '', redirectTo: 'courses', pathMatch: 'full'
             //Path em branco se refere ao path raiz
         },
-        {
+
+        /*{
             path: '**', component: Error404Component
             //** Rota para caminhos não existentes (erro 404)
-        },
+            //Rota realocada apos utilizar segregacao em core
+        },*/
     ])
   ],
   providers: [],

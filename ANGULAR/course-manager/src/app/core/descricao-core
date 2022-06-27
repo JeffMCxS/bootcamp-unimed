@@ -3,5 +3,9 @@ e uma amarração maior com outro componentes. Não são muito genéricos,
 não são reutilizáveis */
 
 
-/* Componente(pasta) "nav-bar" movido para /cored/component/ e confirmado o alert de atualização de imports */
+/* Componente(pasta) "nav-bar" movido para /core/component/ e confirmado o alert de atualização de imports */
 /* Criado o arquivo core.module.ts em /core/ */
+
+/* Componente(pasta) "error-404" movido para /core/component/ e confirmado o alert de atualização de imports */
+/* */
+
