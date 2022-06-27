@@ -3,10 +3,6 @@ import { Course } from './course'; //Add Import
 import { CourseService } from "./course.service";
 
 @Component({
-    //selector: 'app-course-list', //Utilizando link de rotas agora ao invés de selector
-    //Removido pois o selector exibe o component via Tags. O novo via Trigg de rotas
-
-    //template: '<h2> Course List </h2>'
     templateUrl: './course-list.component.html' //Template em arquivo externo
 })
 export class CourseListComponent implements OnInit { //Add OnInit
