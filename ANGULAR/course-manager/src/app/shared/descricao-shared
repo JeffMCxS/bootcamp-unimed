@@ -1,0 +1,14 @@
+//A pasta shared contem components, pipes, validaçoes, todos genéricos e que podem ser utilizadas em diferentes situações e partes do projeto.
+
+//Pasta Component conterá todos o components
+//Pasta Pipe conterá todos os pipes
+
+
+/* Componente(pasta) "star" movido para /shared/component/ e confirmado o alert de atualização de imports */
+/* Criado o arquivo star.module.ts em /shared/component/star */
+
+/* Componente(pasta) "pipe" movido para /shared/ e confirmado o alert de atualização de imports */
+/* Criado o arquivo app-pipe.module.ts em /shared/pipe/ */
+    //esse module específico será utilizado por todos os pipes
+    //Em caso de multiplos contextos é interessante fazer segregação
+
