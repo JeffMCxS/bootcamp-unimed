@@ -69,7 +69,6 @@ namespace curso.api
                 });
 
 
-
                 var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml"; //Pegando no nome do arquivo, é o meso do projeto + xml
                 var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile); //Pegando o local do arquivo, nesse caso o mesmo da aplicação
                 c.IncludeXmlComments(xmlPath); //Incluir comentários no swagger
@@ -105,9 +104,6 @@ namespace curso.api
             services.AddScoped<ICursoRepository, CursoRepository>();
             services.AddScoped<IAuthenticationService, JwtService>();
         }
-
-
-
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
