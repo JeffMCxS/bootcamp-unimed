@@ -36,7 +36,28 @@ body {
     background-repeat: no-repeat;
     margin-right: 1rem;
 }
+.slider {
+    position: fixed;
+    display: contents;
+}
 
+.slider img {
+    object-fit: contain;
+    margin-left: 3.5rem;
+    margin-top: -1.5rem;
+    height: 100%;
+    min-height: 539px;
+    max-height: 539px;
+    position: absolute;
+    justify-items: inherit;
+    opacity: 0;
+    transition: opacity 2000ms;
+}
+
+
+.slider img.selected {
+    opacity: 1;
+}
 
 .instagram-continue {
     display: flex;
