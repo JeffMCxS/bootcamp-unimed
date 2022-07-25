@@ -1,0 +1,13 @@
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\obj\Debug\netcoreapp3.1\File_And_FileInfo.csprojAssemblyReference.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\obj\Debug\netcoreapp3.1\File_And_FileInfo.AssemblyInfoInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\obj\Debug\netcoreapp3.1\File_And_FileInfo.AssemblyInfo.cs
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\obj\Debug\netcoreapp3.1\File_And_FileInfo.csproj.CoreCompileInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\bin\Debug\netcoreapp3.1\File_And_FileInfo.exe
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\bin\Debug\netcoreapp3.1\File_And_FileInfo.deps.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\bin\Debug\netcoreapp3.1\File_And_FileInfo.runtimeconfig.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\bin\Debug\netcoreapp3.1\File_And_FileInfo.runtimeconfig.dev.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\bin\Debug\netcoreapp3.1\File_And_FileInfo.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\bin\Debug\netcoreapp3.1\File_And_FileInfo.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\obj\Debug\netcoreapp3.1\File_And_FileInfo.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\obj\Debug\netcoreapp3.1\File_And_FileInfo.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\File_And_FileInfo\obj\Debug\netcoreapp3.1\File_And_FileInfo.genruntimeconfig.cache

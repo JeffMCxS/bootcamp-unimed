@@ -1,0 +1,13 @@
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\obj\Debug\netcoreapp3.1\StringReaders.csprojAssemblyReference.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\obj\Debug\netcoreapp3.1\StringReaders.AssemblyInfoInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\obj\Debug\netcoreapp3.1\StringReaders.AssemblyInfo.cs
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\obj\Debug\netcoreapp3.1\StringReaders.csproj.CoreCompileInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\bin\Debug\netcoreapp3.1\StringReaders.exe
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\bin\Debug\netcoreapp3.1\StringReaders.deps.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\bin\Debug\netcoreapp3.1\StringReaders.runtimeconfig.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\bin\Debug\netcoreapp3.1\StringReaders.runtimeconfig.dev.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\bin\Debug\netcoreapp3.1\StringReaders.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\bin\Debug\netcoreapp3.1\StringReaders.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\obj\Debug\netcoreapp3.1\StringReaders.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\obj\Debug\netcoreapp3.1\StringReaders.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringReaders\obj\Debug\netcoreapp3.1\StringReaders.genruntimeconfig.cache

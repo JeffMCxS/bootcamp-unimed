@@ -1,0 +1,59 @@
+
+dotnet new sln --name Colecoes = solutions servem para agrupar um ou mais projetos
+dotnet sln add Colecoes/Colecoes.csproj = adicionar o projeto à coleção
+
+dotnet add package CsvHelper = instala o CsvHelper adquirido no nuget.org
+
+
+
+ASP.NET
+ASP NET MVC
+
+dotnet new mvc -o CursoMVC
+
+
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer = instalar Entity
+dotnet add package Microsoft.EntityFrameworkCore.tools = instalar ferramentas do Entity
+
+pelo nuget > Install-Package Microsoft.EntityFrameworkCore.SqlServer
+
+dotnet tool install --global dotnet-ef = instalar tools
+dotnet ef migrations add yourMigrationName = adicionar uma nova migração (instalar tools antes)
+dotnet ef database update = atualizar o banco de dados ou criar se nao tiver
+
+
+
+
+Aula ASPNET - Configuração da arquitetura back-end com .NET Core
+{
+	Criando projeto
+	{
+		Tipo: API Web do ASP.NET Core
+		Nome: curso.api
+		Solução: curso
+		.NET Core 3.1
+	}
+
+	Removendo coisas denecessárias
+	{
+		WeatherForecast
+		Controller WeatherForecast
+		Referencias de WeatherForecast no Properties/launchSettings.json
+	}
+}
+
+
+- Arquivo de documentação = Projeto[direito] > Propriedades > Criar (build) > Saida > Gerar Arquivo da documentação (curso.api.xml)
+- Swagger = Projeto > Dependencias[direito] > Gerenciar pacotes Nuget > Swashbuckle.AspNetCore[instalar] (versao 5.6.3)
+- Swagger Annotations = Projeto > Dependencias[direito] > Gerenciar pacotes Nuget > Swashbuckle.AspNetCore.Annotations[instalar] (versao 5.6.3)
+
+- = Projeto > Dependencias[direito] > Gerenciar pacotes Nuget > Microsoft.AspNetCore.Authentication[instalar] (versao 2.2.0)
+- = Projeto > Dependencias[direito] > Gerenciar pacotes Nuget > Microsoft.AspNetCore.Authentication.JwtBearer[instalar] (versao 3.1.9)
+
+- = > Microsoft.EntityFrameworkCore (versao 3.1.9)
+- = > Microsoft.EntityFramework.Relational (versao 3.1.9)
+- = > Microsoft.EntityFramework.SqlServer (versão 3.1.9)
+- = > Microsoft.EntityFramework.Tools (versão 3.1.9)
+criando banco = Tools > NuGet Package Manager > Package Manager Console > [Add-Migration Base-inicial] 
+
+

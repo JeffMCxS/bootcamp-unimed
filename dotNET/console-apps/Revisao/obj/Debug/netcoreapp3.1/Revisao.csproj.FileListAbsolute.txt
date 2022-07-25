@@ -1,0 +1,13 @@
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache

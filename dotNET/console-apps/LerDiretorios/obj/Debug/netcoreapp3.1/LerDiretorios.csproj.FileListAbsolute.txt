@@ -1,0 +1,13 @@
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\obj\Debug\netcoreapp3.1\LerDiretorios.csprojAssemblyReference.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\obj\Debug\netcoreapp3.1\LerDiretorios.AssemblyInfoInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\obj\Debug\netcoreapp3.1\LerDiretorios.AssemblyInfo.cs
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\obj\Debug\netcoreapp3.1\LerDiretorios.csproj.CoreCompileInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\bin\Debug\netcoreapp3.1\LerDiretorios.exe
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\bin\Debug\netcoreapp3.1\LerDiretorios.deps.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\bin\Debug\netcoreapp3.1\LerDiretorios.runtimeconfig.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\bin\Debug\netcoreapp3.1\LerDiretorios.runtimeconfig.dev.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\bin\Debug\netcoreapp3.1\LerDiretorios.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\bin\Debug\netcoreapp3.1\LerDiretorios.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\obj\Debug\netcoreapp3.1\LerDiretorios.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\obj\Debug\netcoreapp3.1\LerDiretorios.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\LerDiretorios\obj\Debug\netcoreapp3.1\LerDiretorios.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\bin\Debug\net6.0\csvStream.exe
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\bin\Debug\net6.0\csvStream.deps.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\bin\Debug\net6.0\csvStream.runtimeconfig.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\bin\Debug\net6.0\csvStream.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\bin\Debug\net6.0\csvStream.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\obj\Debug\net6.0\csvStream.csproj.AssemblyReference.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\obj\Debug\net6.0\csvStream.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\obj\Debug\net6.0\csvStream.AssemblyInfoInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\obj\Debug\net6.0\csvStream.AssemblyInfo.cs
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\obj\Debug\net6.0\csvStream.csproj.CoreCompileInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\obj\Debug\net6.0\csvStream.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\obj\Debug\net6.0\refint\csvStream.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\obj\Debug\net6.0\csvStream.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\obj\Debug\net6.0\csvStream.genruntimeconfig.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\csvStream\obj\Debug\net6.0\ref\csvStream.dll

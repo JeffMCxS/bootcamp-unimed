@@ -1,0 +1,13 @@
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\obj\Debug\netcoreapp3.1\StringWriters.csprojAssemblyReference.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\obj\Debug\netcoreapp3.1\StringWriters.AssemblyInfoInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\obj\Debug\netcoreapp3.1\StringWriters.AssemblyInfo.cs
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\obj\Debug\netcoreapp3.1\StringWriters.csproj.CoreCompileInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\bin\Debug\netcoreapp3.1\StringWriters.exe
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\bin\Debug\netcoreapp3.1\StringWriters.deps.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\bin\Debug\netcoreapp3.1\StringWriters.runtimeconfig.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\bin\Debug\netcoreapp3.1\StringWriters.runtimeconfig.dev.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\bin\Debug\netcoreapp3.1\StringWriters.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\bin\Debug\netcoreapp3.1\StringWriters.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\obj\Debug\netcoreapp3.1\StringWriters.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\obj\Debug\netcoreapp3.1\StringWriters.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Streams\StringWriters\obj\Debug\netcoreapp3.1\StringWriters.genruntimeconfig.cache

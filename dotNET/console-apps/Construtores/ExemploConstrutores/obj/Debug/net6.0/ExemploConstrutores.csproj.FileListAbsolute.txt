@@ -1,0 +1,15 @@
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\obj\Debug\net6.0\refint\ExemploConstrutores.dll
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
+E:\Projetos\2022\bootcamp-unimed\dotNET\console-apps\Construtores\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll

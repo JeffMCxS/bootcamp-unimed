@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MbkixDr39SKS4VByPGsenUQzixtUSNMYcGEwLYaVfaLJ3OCYG/6Z1AzHrnR3T6UOX5lqDTy8xk4aRgd8z+NnLg==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\2022\\bootcamp-unimed\\dotNET\\console-apps\\Streams\\csvStream\\csvStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aurelio\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
